@@ -1,7 +1,7 @@
 {
   "name": "larax",
   "license": "MIT",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -18,5 +18,29 @@
     "@changesets/cli": "^2.27.12",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3"
+  },
+  "keywords": [
+    "laravel",
+    "larax",
+    "laravel-like",
+    "helpers",
+    "utilities",
+    "javascript",
+    "nodejs",
+    "typescript"
+  ],
+  "description": "Larax is an NPM package that provides Laravel-inspired helpers written in JavaScript, making it easy to use Laravel-style utilities in your Node.js or frontend projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbas-roholamin/larax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abbas-roholamin/larax/issues"
+  },
+  "homepage": "https://github.com/abbas-roholamin/larax#readme",
+  "author": {
+    "name": "Abbas Roholamin",
+    "email": "abbasroholamin76@gmail.coom",
+    "url": "https://github.com/abbas-roholamin"
   }
 }

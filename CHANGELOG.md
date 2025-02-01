@@ -1,5 +1,11 @@
 # larax
 
+## 0.1.0
+
+### Minor Changes
+
+- Add string and array classes
+
 ## 0.0.5
 
 ### Patch Changes
