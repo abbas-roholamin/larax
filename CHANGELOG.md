@@ -1,5 +1,17 @@
 # larax
 
+## 0.0.5
+
+### Patch Changes
+
+- Make package public
+
+## 0.0.4
+
+### Patch Changes
+
+- Fix logo URL issue
+
 ## 0.0.3
 
 ### Patch Changes

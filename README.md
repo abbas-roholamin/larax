@@ -1,6 +1,6 @@
 # Larax
 
-![Larax Logo](logo.jpg)
+![Larax Logo](https://i.postimg.cc/258hYsbR/larax-logo.jpg)
 
 **Larax** is an NPM package that provides Laravel-inspired helpers written in JavaScript, making it easy to use Laravel-style utilities in your Node.js or frontend projects.
 
