@@ -1,0 +1,8 @@
+# Settings file for pnpm 11. This is not a multi-package workspace — pnpm moved
+# its configuration keys out of package.json, so they have to live here.
+#
+# esbuild (pulled in by both tsup and vitest) runs a postinstall script to link
+# its platform binary. Without this approval pnpm 11 exits 1 with
+# ERR_PNPM_IGNORED_BUILDS, which would fail CI on the install step.
+allowBuilds:
+  esbuild: true
